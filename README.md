@@ -46,6 +46,8 @@ print(s.recv(1024).decode())
 s.send("acknowledgement recived from the server".encode())
 ```
 OUTPUT:
+
+
 <img width="1205" height="730" alt="Screenshot 2025-11-17 201917" src="https://github.com/user-attachments/assets/2ac11b25-0591-4589-a762-4212fed07f92" />
 
 ## Client –Server Operations
