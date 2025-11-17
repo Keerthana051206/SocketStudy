@@ -77,6 +77,8 @@ if ack:
 c.close()
 ```
 OUTPUT:
+
+
 <img width="365" height="221" alt="image" src="https://github.com/user-attachments/assets/fc5c806e-cfae-4d5a-912f-0675dd6203c8" />
 
 ## Use Cases of Socket Programming:
